@@ -1,8 +1,9 @@
 import {Header, Container, Button, Icon, Image, Menu, Segment, List,Grid, MenuItem, Input} from 'semantic-ui-react'
-import React, {Link} from 'react'
+import React from 'react'
 
 
-const HomePage = () =>{
+
+export default function HomePage(){
 
     return (
     <div className="App">
@@ -187,4 +188,3 @@ const HomePage = () =>{
     );
 }
 
-export default HomePage;
