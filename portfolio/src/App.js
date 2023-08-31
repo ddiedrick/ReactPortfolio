@@ -1,38 +1,23 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react'
-import {Header, Grid, Container} from 'semantic-ui-react'
+import { BrowserRouter as Router, Routes, Route, useRoutes } from "react-router-dom";
+import HomePage from './components/Home';
 
 function App() {
   return (
-    <div className="App">
-      <Container>
-     <Header color= 'blue'>My React Portfolio</Header>
-     <Grid divided='vertically'>
-    <Grid.Row columns={2}>
-      <Grid.Column>
-       
-      </Grid.Column>
-      <Grid.Column>
-       
-      </Grid.Column>
-    </Grid.Row>
+  <Router>
+  <div className="App">
+    <Routes>
+    
+      <Route path="/" element={<HomePage />} />
+     
+    </Routes>
+  </div>
+</Router>
 
-    <Grid.Row columns={3}>
-      <Grid.Column>
-       
-      </Grid.Column>
-      <Grid.Column>
-       
-      </Grid.Column>
-      <Grid.Column>
-        
-      </Grid.Column>
-    </Grid.Row>
-  </Grid>
-  </Container>
-    </div>
-  );
+);
+  
 }
 
 export default App;
