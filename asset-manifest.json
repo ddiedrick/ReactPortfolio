@@ -1,9 +1,17 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.777a7547.css",
-    "main.js": "/ReactPortfolio/static/js/main.c7215d02.js",
+    "main.js": "/ReactPortfolio/static/js/main.12926b97.js",
+    "static/media/IMG_3165.PNG": "/ReactPortfolio/static/media/IMG_3165.2b4cf0743d5fe8128ea8.PNG",
+    "static/media/_DSC0350.JPG": "/ReactPortfolio/static/media/_DSC0350.f8ae6e511658e2e39f30.JPG",
+    "static/media/IMG_3118.jpeg": "/ReactPortfolio/static/media/IMG_3118.63fde75d30b4633dad0a.jpeg",
+    "static/media/IMG_4531.jpeg": "/ReactPortfolio/static/media/IMG_4531.bda36e3910ff5eafe54f.jpeg",
+    "static/media/profilePic.jpg": "/ReactPortfolio/static/media/profilePic.d754f9dc78d3ba8f9f0d.jpg",
     "static/media/brand-icons.svg": "/ReactPortfolio/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/_DSC0138.JPG": "/ReactPortfolio/static/media/_DSC0138.b85dae4aa713076ebe3b.JPG",
+    "static/media/_DSC0122.JPG": "/ReactPortfolio/static/media/_DSC0122.9d0489e6959a5cda1e06.JPG",
     "static/media/icons.svg": "/ReactPortfolio/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/_DSC0074.JPG": "/ReactPortfolio/static/media/_DSC0074.05bac3cd8fcf35bf07c3.JPG",
     "static/media/outline-icons.svg": "/ReactPortfolio/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/ReactPortfolio/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/ReactPortfolio/static/media/icons.c656b8caa454ed19b9a2.ttf",
@@ -20,10 +28,10 @@
     "static/media/outline-icons.woff2": "/ReactPortfolio/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/ReactPortfolio/index.html",
     "main.777a7547.css.map": "/ReactPortfolio/static/css/main.777a7547.css.map",
-    "main.c7215d02.js.map": "/ReactPortfolio/static/js/main.c7215d02.js.map"
+    "main.12926b97.js.map": "/ReactPortfolio/static/js/main.12926b97.js.map"
   },
   "entrypoints": [
     "static/css/main.777a7547.css",
-    "static/js/main.c7215d02.js"
+    "static/js/main.12926b97.js"
   ]
 }
