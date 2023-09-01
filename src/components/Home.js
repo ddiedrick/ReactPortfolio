@@ -3,8 +3,9 @@ import React from 'react'
 
 
 
-export default function HomePage(){
 
+//export default function HomePage(){
+  const HomePage = () => {
     return (
     <div className="App">
       <Container fluid>
@@ -55,7 +56,7 @@ export default function HomePage(){
      </Segment>
      <Segment id='education'> 
         <Header color = "violet">Education</Header>
-        <p textAlign='centered'>
+        <p>
        I completed my Bachelors Degree in Computer Science after a long 5 years at Georgia State University. I graduated in May 2020.
      </p>
      </Segment>
@@ -188,3 +189,5 @@ export default function HomePage(){
     );
 }
 
+
+export default HomePage;
