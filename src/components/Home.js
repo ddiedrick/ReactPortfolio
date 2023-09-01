@@ -44,7 +44,7 @@ import React from 'react'
         </Menu>
         <Grid  >
     <Grid.Column width={4}>
-      <Image src='../images/profilePic.jpg' size='small' centered/>
+      <Image src={require('./images/profilePic.jpg') } size='small'centered/>
     </Grid.Column>
     <Grid.Column width={8} >
         <Segment>
@@ -138,7 +138,7 @@ import React from 'react'
      </Segment>
     </Grid.Column>
     <Grid.Column width={4}>
-      <Image src='../images/IMG_4531.jpeg' size='small' centered/>
+      <Image src={require('./images/IMG_4531.jpeg')} size='small' centered/>
     </Grid.Column>
     
   </Grid>
@@ -147,25 +147,25 @@ import React from 'react'
 
     <Grid.Row columns={3}>
       <Grid.Column>
-        <Image src='../images/_DSC0074.JPG' />
+        <Image src={require('./images/_DSC0074.JPG')} />
       </Grid.Column>
       <Grid.Column>
-        <Image src='../images/_DSC0122.JPG' />
+        <Image src={require('./images/_DSC0122.JPG')} />
       </Grid.Column>
       <Grid.Column>
-        <Image src='../images/_DSC0138.JPG' />
+        <Image src={require('./images/_DSC0138.JPG')} />
       </Grid.Column>
     </Grid.Row>
 
     <Grid.Row columns={3}>
       <Grid.Column>
-        <Image src='../images/IMG_3118.jpeg' />
+        <Image src={require('./images/IMG_3118.jpeg')} />
       </Grid.Column>
       <Grid.Column>
-        <Image src='../images/IMG_3165.PNG' />
+        <Image src={require('./images/IMG_3165.PNG')} />
       </Grid.Column>
       <Grid.Column>
-        <Image src='../images/_DSC0350.JPG' />
+        <Image src={require('./images/_DSC0350.JPG')} />
       </Grid.Column>
     </Grid.Row>
 
